@@ -20,3 +20,6 @@ If you do not already have the **requests** library installed, run the setup.py 
 
 ## Legal Notice
 This is illegal if you use this without the consent of the owners — in this case, the TikTok team. I am not accountable for anything you get into; this was merely a speedrun to demonstrate how botters work. This is 100% educational, please do not misuse this tool.
+
+
+forks are cool
